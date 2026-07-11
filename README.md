@@ -30,8 +30,8 @@ The dataset contains 57 observations representing regencies and cities in South 
 
 | File | Description |
 |------|-------------|
-| DSulSel.xlsx | Original dataset |
-| DSulSel by Haura Fathiya.xlsx | Processed dataset and analysis |
+| [DSulSel.xlsx](https://docs.google.com/spreadsheets/d/1wissN0qVVkGxAr-_6-AGeOq0dHsai2l-/edit?gid=1520019986#gid=1520019986) | Original dataset |
+| [DSulSel by Haura Fathiya.xlsx](https://docs.google.com/spreadsheets/d/1BKHQpOpqCej4KOG9RH2CiywNn--_IUmPxZXdV8D6Fls/edit?usp=sharing) | Processed dataset and analysis |
 
 ## Project Type
 
